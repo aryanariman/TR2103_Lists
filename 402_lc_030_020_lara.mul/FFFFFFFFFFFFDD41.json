@@ -1,0 +1,31 @@
+{
+  "AudioChannels": [
+    {
+      "Type": 0,
+      "LeftVolume": 1,
+      "RightVolume": 1
+    }
+  ],
+  "Looping": false,
+  "SubtitleFrames": [
+    {
+      "FrameNumber": 0,
+      "Subtitles": {
+        "0": "That won\u0027t work.",
+        "13": "ﺢﺠﻨﻳ ﻦﻟ ﺍذﻫ",
+        "15": "行不通。",
+        "10": "To nepůjde.",
+        "11": "Dat werkt niet.",
+        "1": "Ça ne marchera pas.",
+        "2": "Das klappt nicht.",
+        "3": "Ci ho provato.",
+        "5": "だめね",
+        "14": "저건 안 돼.",
+        "7": "[d2]To nie zadziała.",
+        "6": "Não vai funcionar.",
+        "9": "Это не сработает.",
+        "4": "Eso no sirve."
+      }
+    }
+  ]
+}
